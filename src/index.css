@@ -1,0 +1,9 @@
+.thumbnail-img {
+  border: 2px solid transparent;
+  border-radius: 4px;
+  transition: border 0.3s ease;
+}
+
+.thumbnail-img:hover {
+  border: 2px solid #007bff;
+}
