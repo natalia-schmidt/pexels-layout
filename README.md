@@ -1,4 +1,4 @@
-# Pexels Layour
+# Pexels Layout
 
 This is a simple image search application gallery that allows users to search for images from the Pexels API. Users can view a main image and a set of thumbnails based on their search query. The app is built using React and utilizes Bootstrap for styling.
 
